@@ -1,0 +1,121 @@
+#topbar
+{
+	background-color:gray;
+	height:20px;
+	width:100%;
+
+}
+
+
+#display
+{
+	height:100;
+	width:100;
+}
+#header
+{
+	height:100px;
+	background color:black;
+}
+#header img 
+{
+	height:100px;
+	width:500px;
+}
+#header ul
+{
+	float:right;
+	margin-top:40px;
+
+}
+#header ul li
+{
+	display:inline;
+	margin-right:25px;
+
+}
+#header ul li a
+{
+	color:gray;
+	text-decoration:line;
+	font-size:20px;
+}
+
+
+
+
+.heading
+{
+	color:white;
+	margin:10px;
+	font-size:28px;
+
+
+}
+#form
+{
+	margin-left:2%;
+	margin:5px;
+
+
+}
+
+#form1
+{
+	color:black;
+	margin:10%;
+	font-size:25px;
+
+
+}
+#base
+{
+	height:500px;
+	width:500px;
+}
+#base1 img
+{
+	width:400px;
+	height:400px;
+}
+#small
+{
+	width:550px;
+	height:450px;
+	background-color:white;
+	float:right;
+	font-size:22px;
+	
+	padding:1%;
+	margin-right:7%;
+}
+
+#store
+{   width:100%;
+	height:30%;
+	background-color:white;
+	float:center;
+	padding:2%;
+	
+}
+#store img
+{
+	height:200px;
+	width:100px:
+}
+#terminate
+{
+	font-size:30px;
+	padding:3%
+
+
+}
+#terminate a img
+{ height:100px;
+  width:100px;
+}
+#bottom
+{
+	float:right;
+	padding:10%;
+}
